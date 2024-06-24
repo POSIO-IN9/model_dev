@@ -1,0 +1,8 @@
+names:
+  0: buds
+  1: stemp
+  2: leaf
+  3: fruit
+test: ./test
+train: ./train
+val: ./val
